@@ -1,0 +1,9 @@
+{
+  "revenue": {
+    "total_revenue": 6456539.081243999,
+    "avg_daily_revenue": 5961.716603180054,
+    "revenue_std": 2488.1159924409394,
+    "revenue_cv": 0.41734892113351163
+  },
+  "orders": {
+    "total_orders": 
