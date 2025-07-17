@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (optional - depends on data size)
+data/raw/*.csv
+data/processed/*.pkl
+
+# Results
+results/models/*.pkl
+results/figures/*.png
+
+# OS
+.DS_Store
+Thumbs.db
