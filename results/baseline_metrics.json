@@ -1,9 +1,82 @@
 {
   "revenue": {
-    "total_revenue": 6456539.081243999,
-    "avg_daily_revenue": 5961.716603180054,
-    "revenue_std": 2488.1159924409394,
-    "revenue_cv": 0.41734892113351163
+    "total_revenue": 6405725.2611282,
+    "avg_daily_revenue": 5914.797101688089,
+    "revenue_std": 2198.4331709079747,
+    "revenue_cv": 0.37168361536535877
   },
   "orders": {
-    "total_orders": 
+    "total_orders": 99624,
+    "avg_daily_orders": 91.98891966759003,
+    "avg_order_value": 65.37228070175438,
+    "aov_std": 7.779581815395195
+  },
+  "seasonality": {
+    "monthly_revenue": {
+      "April": 413289.83,
+      "August": 591501.13,
+      "December": 812992.67,
+      "February": 295197.52,
+      "January": 304619.63,
+      "July": 611125.35,
+      "June": 546954.25,
+      "March": 680691.58,
+      "May": 458280.37,
+      "November": 727391.74,
+      "October": 468993.05,
+      "September": 494688.14
+    },
+    "monthly_avg_daily": {
+      "April": 4592.11,
+      "August": 6360.23,
+      "December": 8741.86,
+      "February": 3514.26,
+      "January": 3275.48,
+      "July": 6571.24,
+      "June": 6077.27,
+      "March": 8403.6,
+      "May": 4927.75,
+      "November": 8082.13,
+      "October": 5042.94,
+      "September": 5496.53
+    },
+    "seasonal_variance": {
+      "April": 995.08,
+      "August": 1433.03,
+      "December": 2133.02,
+      "February": 716.46,
+      "January": 661.34,
+      "July": 1336.3,
+      "June": 1343.3,
+      "March": 1851.55,
+      "May": 1028.6,
+      "November": 1825.28,
+      "October": 1320.33,
+      "September": 1073.23
+    }
+  },
+  "growth": {
+    "yearly_revenue": {
+      "2021": 1884132.74,
+      "2022": 2079608.09,
+      "2023": 2441984.43
+    },
+    "yearly_orders": {
+      "2021": 29176,
+      "2022": 32263,
+      "2023": 38185
+    },
+    "yearly_aov": {
+      "2021": 65.7,
+      "2022": 65.4,
+      "2023": 65.02
+    },
+    "growth_rate_2021_2022": 10.4,
+    "growth_rate_2022_2023": 17.4
+  },
+  "marketing": {
+    "avg_marketing_spend": 129.64781544256118,
+    "marketing_efficiency": 51.99288607116272,
+    "total_marketing_spend": 137685.97999999998
+  }
+}
